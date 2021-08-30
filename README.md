@@ -8,6 +8,5 @@ Convert 010editor templates to Peach pit.
 ## INSALL:
 
     pip install pfp
-
     pip install 010parser
 

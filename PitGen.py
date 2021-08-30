@@ -236,15 +236,3 @@ if __name__ == "__main__":
     #print options.fileName
     #print MutateString()
     GeneratePit(options.fileName, options.template)
-    #ParseTemplate()
-
-    pass
-
-
-
-
-
-
-#png = pfp.parse(data_file="test.png", template_file="PNGTemplate.bt")
-
-#print  png.chunk[1].type.cname[1]._pfp__value
